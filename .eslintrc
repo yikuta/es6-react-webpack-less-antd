@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "react",
+    "es2015"
+  ],
+  "extends": ["eslint:all", "plugin:react/all"]
+}
